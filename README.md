@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azure-Ace
 - 👀 I’m interested in getting a job
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on getting hired
 - 📫 How to reach me: grovermoab2020@gmail.com
 - 😄 Pronouns: Gender? I hardly know her! Any pronouns idc
